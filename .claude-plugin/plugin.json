@@ -1,0 +1,29 @@
+{
+  "name": "ormus-vibe-proof",
+  "version": "1.0.0",
+  "description": "Security hardening for vibe-coded full-stack apps. Parallel audit agents, prioritized fix queue, ~10 ready-to-paste fix patterns.",
+  "author": "Diego Bodart / Ormus.Solutions",
+  "license": "MIT",
+  "homepage": "https://github.com/HermeticOrmus/ormus-vibe-proof",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HermeticOrmus/ormus-vibe-proof.git"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "anthropic",
+    "ai-agents",
+    "skills",
+    "security",
+    "security-audit",
+    "vibe-coding",
+    "ormus"
+  ],
+  "skills": [
+    {
+      "name": "vibe-proof",
+      "path": "SKILL.md"
+    }
+  ]
+}
