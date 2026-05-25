@@ -1,6 +1,23 @@
-# ormus-vibe-proof
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="ormus-vibe-proof" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> Security hardening for vibe-coded full-stack apps. Three parallel audit agents, seven categories, prioritized fix queue.
+<h1 align="center">ormus-vibe-proof</h1>
+
+<p align="center">
+  <em>Security hardening for vibe-coded full-stack apps. Parallel audits + prioritized fix queue + 10 ready fix patterns.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/ormus-vibe-proof/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/ormus-vibe-proof?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-vibe-proof/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/ormus-vibe-proof?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-vibe-proof/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/ormus-vibe-proof?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **Security hardening for vibe-coded full-stack apps. Three parallel audit agents, seven categories, prioritized fix queue.**
 
 A Claude Code skill that systematically audits and hardens security vulnerabilities in vibe-coded full-stack applications. Three audit agents run in parallel across frontend, backend, and config layers; findings get deduplicated, prioritized by severity, and fixed in order.
 
