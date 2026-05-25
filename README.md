@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_philosopher_stone.gif" alt="ormus-vibe-proof" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="ormus-vibe-proof" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">ormus-vibe-proof</h1>
