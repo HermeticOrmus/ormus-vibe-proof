@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
+> **Now maintained as [`vibe-proof-skills`](https://github.com/HermeticOrmus/vibe-proof-skills)** the drop-in `CLAUDE.md` form in the Libre skills family, cross-linked across the suite. This repository is the original standalone packaging and remains available.
+
 ---
 
 > **Security hardening for vibe-coded full-stack apps. Three parallel audit agents, seven categories, prioritized fix queue.**
